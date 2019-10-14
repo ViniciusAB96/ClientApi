@@ -1,0 +1,7 @@
+c:\users\vinic\source\repos\ClientApi\ClientApi\bin\Debug\ClientApi.exe.config
+c:\users\vinic\source\repos\ClientApi\ClientApi\bin\Debug\ClientApi.exe
+c:\users\vinic\source\repos\ClientApi\ClientApi\bin\Debug\ClientApi.pdb
+c:\users\vinic\source\repos\ClientApi\ClientApi\obj\Debug\ClientApi.csprojAssemblyReference.cache
+c:\users\vinic\source\repos\ClientApi\ClientApi\obj\Debug\ClientApi.csproj.CoreCompileInputs.cache
+c:\users\vinic\source\repos\ClientApi\ClientApi\obj\Debug\ClientApi.exe
+c:\users\vinic\source\repos\ClientApi\ClientApi\obj\Debug\ClientApi.pdb
